@@ -33,6 +33,3 @@ The challenge is divided into the following eight parts:
 6. **Insights**
 7. **Bubble Plot**
 8. **Further Insights - 2**
-
-## Explore the Repository
-Feel free to explore this repository to delve into the insights gained from this challenging and rewarding data visualization endeavor. I hope you find the content insightful and informative!
